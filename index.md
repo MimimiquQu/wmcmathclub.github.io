@@ -1,0 +1,2 @@
+- puzzles
+- "Connect Letters" [connect-letters]
